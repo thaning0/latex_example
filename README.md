@@ -1,5 +1,7 @@
 # latex_example
 An simple latex example for beginner
+- Usual template for paper
+- Inserting Math formulations, code blocks, images and hyperlinks...
 
 
 1. Make sure you have a Tex system: [Tex Live](https://www.tug.org/texlive/) for Windows and Unix, [MacTex](https://www.tug.org/mactex/) for MacOS
